@@ -1,0 +1,475 @@
+Year,Area of Residence,VALUE,CountyName,BirthRate
+2008,Carlow,20.7,Carlow,20.7
+2008,Kildare,20.5,Kildare,20.5
+2008,Kilkenny,15.5,Kilkenny,15.5
+2008,Laois,19.5,Laois,19.5
+2008,Longford,20.2,Longford,20.2
+2008,Louth,17.1,Louth,17.1
+2008,Meath,21.2,Meath,21.2
+2008,Offaly,17.1,Offaly,17.1
+2008,Westmeath,18.0,Westmeath,18.0
+2008,Wexford,18.4,Wexford,18.4
+2008,Wicklow,19.0,Wicklow,19.0
+2008,Clare,15.9,Clare,15.9
+2008,Cork City,12.9,Cork,12.9
+2008,Cork County,18.0,Cork,18.0
+2008,Kerry,14.2,Kerry,14.2
+2008,Limerick City,15.0,Limerick,15.0
+2008,Limerick County,17.1,Limerick,17.1
+2008,North Tipperary,18.3,Tipperary,18.3
+2008,South Tipperary,14.3,Tipperary,14.3
+2008,Waterford City,18.7,Waterford,18.7
+2008,Waterford County,16.3,Waterford,16.3
+2008,Galway City,14.0,Galway,14.0
+2008,Galway County,18.6,Galway,18.6
+2008,Leitrim,16.9,Leitrim,16.9
+2008,Mayo,14.6,Mayo,14.6
+2008,Roscommon,14.8,Roscommon,14.8
+2008,Sligo,15.2,Sligo,15.2
+2008,Cavan,18.9,Cavan,18.9
+2008,Donegal,14.7,Donegal,14.7
+2008,Monaghan,15.1,Monaghan,15.1
+2009,Carlow,18.8,Carlow,18.8
+2009,Kildare,20.5,Kildare,20.5
+2009,Kilkenny,15.4,Kilkenny,15.4
+2009,Laois,19.9,Laois,19.9
+2009,Longford,19.8,Longford,19.8
+2009,Louth,16.2,Louth,16.2
+2009,Meath,20.5,Meath,20.5
+2009,Offaly,16.9,Offaly,16.9
+2009,Westmeath,17.8,Westmeath,17.8
+2009,Wexford,17.4,Wexford,17.4
+2009,Wicklow,18.6,Wicklow,18.6
+2009,Clare,16.3,Clare,16.3
+2009,Cork City,14.0,Cork,14.0
+2009,Cork County,17.9,Cork,17.9
+2009,Kerry,14.8,Kerry,14.8
+2009,Limerick City,14.0,Limerick,14.0
+2009,Limerick County,17.6,Limerick,17.6
+2009,North Tipperary,17.9,Tipperary,17.9
+2009,South Tipperary,15.5,Tipperary,15.5
+2009,Waterford City,17.5,Waterford,17.5
+2009,Waterford County,15.8,Waterford,15.8
+2009,Galway City,13.7,Galway,13.7
+2009,Galway County,17.5,Galway,17.5
+2009,Leitrim,16.0,Leitrim,16.0
+2009,Mayo,14.0,Mayo,14.0
+2009,Roscommon,14.9,Roscommon,14.9
+2009,Sligo,15.5,Sligo,15.5
+2009,Cavan,18.3,Cavan,18.3
+2009,Donegal,15.2,Donegal,15.2
+2009,Monaghan,14.2,Monaghan,14.2
+2010,Carlow,18.1,Carlow,18.1
+2010,Kildare,19.1,Kildare,19.1
+2010,Kilkenny,15.2,Kilkenny,15.2
+2010,Laois,17.9,Laois,17.9
+2010,Longford,17.5,Longford,17.5
+2010,Louth,16.0,Louth,16.0
+2010,Meath,19.6,Meath,19.6
+2010,Offaly,16.3,Offaly,16.3
+2010,Westmeath,17.8,Westmeath,17.8
+2010,Wexford,15.7,Wexford,15.7
+2010,Wicklow,18.8,Wicklow,18.8
+2010,Clare,14.4,Clare,14.4
+2010,Cork City,14.1,Cork,14.1
+2010,Cork County,17.1,Cork,17.1
+2010,Kerry,13.5,Kerry,13.5
+2010,Limerick City,13.6,Limerick,13.6
+2010,Limerick County,17.5,Limerick,17.5
+2010,North Tipperary,17.5,Tipperary,17.5
+2010,South Tipperary,13.6,Tipperary,13.6
+2010,Waterford City,18.8,Waterford,18.8
+2010,Waterford County,14.8,Waterford,14.8
+2010,Galway City,16.1,Galway,16.1
+2010,Galway County,16.6,Galway,16.6
+2010,Leitrim,14.9,Leitrim,14.9
+2010,Mayo,14.2,Mayo,14.2
+2010,Roscommon,14.1,Roscommon,14.1
+2010,Sligo,14.5,Sligo,14.5
+2010,Cavan,16.8,Cavan,16.8
+2010,Donegal,13.9,Donegal,13.9
+2010,Monaghan,14.6,Monaghan,14.6
+2011,Carlow,18.1,Carlow,18.1
+2011,Kildare,18.3,Kildare,18.3
+2011,Kilkenny,14.9,Kilkenny,14.9
+2011,Laois,16.6,Laois,16.6
+2011,Longford,16.1,Longford,16.1
+2011,Louth,15.3,Louth,15.3
+2011,Meath,19.0,Meath,19.0
+2011,Offaly,16.2,Offaly,16.2
+2011,Westmeath,16.1,Westmeath,16.1
+2011,Wexford,15.7,Wexford,15.7
+2011,Wicklow,16.5,Wicklow,16.5
+2011,Clare,14.8,Clare,14.8
+2011,Cork City,13.5,Cork,13.5
+2011,Cork County,16.7,Cork,16.7
+2011,Kerry,14.0,Kerry,14.0
+2011,Limerick City,13.6,Limerick,13.6
+2011,Limerick County,17.2,Limerick,17.2
+2011,North Tipperary,16.8,Tipperary,16.8
+2011,South Tipperary,13.8,Tipperary,13.8
+2011,Waterford City,17.9,Waterford,17.9
+2011,Waterford County,14.4,Waterford,14.4
+2011,Galway City,15.6,Galway,15.6
+2011,Galway County,16.3,Galway,16.3
+2011,Leitrim,14.4,Leitrim,14.4
+2011,Mayo,13.9,Mayo,13.9
+2011,Roscommon,13.5,Roscommon,13.5
+2011,Sligo,14.3,Sligo,14.3
+2011,Cavan,17.3,Cavan,17.3
+2011,Donegal,13.5,Donegal,13.5
+2011,Monaghan,14.5,Monaghan,14.5
+2012,Carlow,16.8,Carlow,16.8
+2012,Kildare,17.2,Kildare,17.2
+2012,Kilkenny,14.5,Kilkenny,14.5
+2012,Laois,15.7,Laois,15.7
+2012,Longford,16.3,Longford,16.3
+2012,Louth,15.2,Louth,15.2
+2012,Meath,17.1,Meath,17.1
+2012,Offaly,15.0,Offaly,15.0
+2012,Westmeath,16.7,Westmeath,16.7
+2012,Wexford,15.2,Wexford,15.2
+2012,Wicklow,16.3,Wicklow,16.3
+2012,Clare,14.5,Clare,14.5
+2012,Cork City,12.1,Cork,12.1
+2012,Cork County,16.5,Cork,16.5
+2012,Kerry,13.5,Kerry,13.5
+2012,Limerick City,14.7,Limerick,14.7
+2012,Limerick County,15.3,Limerick,15.3
+2012,North Tipperary,14.6,Tipperary,14.6
+2012,South Tipperary,13.3,Tipperary,13.3
+2012,Waterford City,17.2,Waterford,17.2
+2012,Waterford County,12.9,Waterford,12.9
+2012,Galway City,16.4,Galway,16.4
+2012,Galway County,15.5,Galway,15.5
+2012,Leitrim,14.2,Leitrim,14.2
+2012,Mayo,13.4,Mayo,13.4
+2012,Roscommon,13.4,Roscommon,13.4
+2012,Sligo,14.8,Sligo,14.8
+2012,Cavan,15.7,Cavan,15.7
+2012,Donegal,12.8,Donegal,12.8
+2012,Monaghan,13.7,Monaghan,13.7
+2013,Carlow,15.8,Carlow,15.8
+2013,Kildare,16.1,Kildare,16.1
+2013,Kilkenny,13.8,Kilkenny,13.8
+2013,Laois,14.8,Laois,14.8
+2013,Longford,15.3,Longford,15.3
+2013,Louth,15.9,Louth,15.9
+2013,Meath,16.9,Meath,16.9
+2013,Offaly,13.7,Offaly,13.7
+2013,Westmeath,15.2,Westmeath,15.2
+2013,Wexford,13.9,Wexford,13.9
+2013,Wicklow,14.9,Wicklow,14.9
+2013,Clare,12.8,Clare,12.8
+2013,Cork City,12.6,Cork,12.6
+2013,Cork County,15.5,Cork,15.5
+2013,Kerry,12.2,Kerry,12.2
+2013,Limerick City,15.0,Limerick,15.0
+2013,Limerick County,14.3,Limerick,14.3
+2013,North Tipperary,14.8,Tipperary,14.8
+2013,South Tipperary,13.5,Tipperary,13.5
+2013,Waterford City,17.0,Waterford,17.0
+2013,Waterford County,13.6,Waterford,13.6
+2013,Galway City,16.4,Galway,16.4
+2013,Galway County,14.8,Galway,14.8
+2013,Leitrim,14.4,Leitrim,14.4
+2013,Mayo,13.1,Mayo,13.1
+2013,Roscommon,13.2,Roscommon,13.2
+2013,Sligo,13.8,Sligo,13.8
+2013,Cavan,15.5,Cavan,15.5
+2013,Donegal,12.3,Donegal,12.3
+2013,Monaghan,14.2,Monaghan,14.2
+2014,Carlow,16.8,Carlow,16.8
+2014,Kildare,15.9,Kildare,15.9
+2014,Kilkenny,13.6,Kilkenny,13.6
+2014,Laois,14.3,Laois,14.3
+2014,Longford,14.1,Longford,14.1
+2014,Louth,15.1,Louth,15.1
+2014,Meath,15.7,Meath,15.7
+2014,Offaly,14.5,Offaly,14.5
+2014,Westmeath,15.4,Westmeath,15.4
+2014,Wexford,14.2,Wexford,14.2
+2014,Wicklow,14.4,Wicklow,14.4
+2014,Clare,12.5,Clare,12.5
+2014,Cork City,12.9,Cork,12.9
+2014,Cork County,14.7,Cork,14.7
+2014,Kerry,11.8,Kerry,11.8
+2014,Limerick City,15.6,Limerick,15.6
+2014,Limerick County,13.8,Limerick,13.8
+2014,North Tipperary,13.4,Tipperary,13.4
+2014,South Tipperary,12.8,Tipperary,12.8
+2014,Waterford City,16.4,Waterford,16.4
+2014,Waterford County,12.5,Waterford,12.5
+2014,Galway City,15.8,Galway,15.8
+2014,Galway County,14.4,Galway,14.4
+2014,Leitrim,12.7,Leitrim,12.7
+2014,Mayo,12.8,Mayo,12.8
+2014,Roscommon,12.6,Roscommon,12.6
+2014,Sligo,12.9,Sligo,12.9
+2014,Cavan,14.7,Cavan,14.7
+2014,Donegal,11.7,Donegal,11.7
+2014,Monaghan,13.7,Monaghan,13.7
+2015,Carlow,14.5,Carlow,14.5
+2015,Kildare,15.3,Kildare,15.3
+2015,Kilkenny,12.7,Kilkenny,12.7
+2015,Laois,14.2,Laois,14.2
+2015,Longford,14.4,Longford,14.4
+2015,Louth,14.7,Louth,14.7
+2015,Meath,14.5,Meath,14.5
+2015,Offaly,12.7,Offaly,12.7
+2015,Westmeath,14.1,Westmeath,14.1
+2015,Wexford,13.5,Wexford,13.5
+2015,Wicklow,14.1,Wicklow,14.1
+2015,Clare,13.0,Clare,13.0
+2015,Cork City,12.8,Cork,12.8
+2015,Cork County,14.5,Cork,14.5
+2015,Kerry,11.5,Kerry,11.5
+2015,Limerick City,14.4,Limerick,14.4
+2015,Limerick County,14.1,Limerick,14.1
+2015,North Tipperary,14.2,Tipperary,14.2
+2015,South Tipperary,12.4,Tipperary,12.4
+2015,Waterford City,14.1,Waterford,14.1
+2015,Waterford County,13.0,Waterford,13.0
+2015,Galway City,14.7,Galway,14.7
+2015,Galway County,13.9,Galway,13.9
+2015,Leitrim,13.0,Leitrim,13.0
+2015,Mayo,12.1,Mayo,12.1
+2015,Roscommon,11.9,Roscommon,11.9
+2015,Sligo,12.3,Sligo,12.3
+2015,Cavan,14.2,Cavan,14.2
+2015,Donegal,11.9,Donegal,11.9
+2015,Monaghan,13.3,Monaghan,13.3
+2016,Carlow,13.3,Carlow,13.3
+2016,Kildare,14.7,Kildare,14.7
+2016,Kilkenny,12.1,Kilkenny,12.1
+2016,Laois,13.3,Laois,13.3
+2016,Longford,14.9,Longford,14.9
+2016,Louth,13.9,Louth,13.9
+2016,Meath,14.1,Meath,14.1
+2016,Offaly,12.7,Offaly,12.7
+2016,Westmeath,14.1,Westmeath,14.1
+2016,Wexford,12.6,Wexford,12.6
+2016,Wicklow,13.4,Wicklow,13.4
+2016,Clare,12.4,Clare,12.4
+2016,Cork City,11.8,Cork,11.8
+2016,Cork County,13.4,Cork,13.4
+2016,Kerry,11.7,Kerry,11.7
+2016,Limerick City,14.7,Limerick,14.7
+2016,Limerick County,13.0,Limerick,13.0
+2016,North Tipperary,12.7,Tipperary,12.7
+2016,South Tipperary,13.0,Tipperary,13.0
+2016,Waterford City,11.6,Waterford,11.6
+2016,Waterford County,13.6,Waterford,13.6
+2016,Galway City,14.8,Galway,14.8
+2016,Galway County,13.6,Galway,13.6
+2016,Leitrim,13.0,Leitrim,13.0
+2016,Mayo,11.9,Mayo,11.9
+2016,Roscommon,11.7,Roscommon,11.7
+2016,Sligo,12.0,Sligo,12.0
+2016,Cavan,14.1,Cavan,14.1
+2016,Donegal,11.9,Donegal,11.9
+2016,Monaghan,13.1,Monaghan,13.1
+2017,Carlow,13.4,Carlow,13.4
+2017,Kildare,14.0,Kildare,14.0
+2017,Kilkenny,11.7,Kilkenny,11.7
+2017,Laois,13.9,Laois,13.9
+2017,Longford,13.1,Longford,13.1
+2017,Louth,13.3,Louth,13.3
+2017,Meath,13.6,Meath,13.6
+2017,Offaly,12.7,Offaly,12.7
+2017,Westmeath,14.2,Westmeath,14.2
+2017,Wexford,12.6,Wexford,12.6
+2017,Wicklow,12.8,Wicklow,12.8
+2017,Clare,11.9,Clare,11.9
+2017,Cork City,11.1,Cork,11.1
+2017,Cork County,13.0,Cork,13.0
+2017,Kerry,11.2,Kerry,11.2
+2017,Limerick City,13.5,Limerick,13.5
+2017,Limerick County,13.0,Limerick,13.0
+2017,North Tipperary,12.7,Tipperary,12.7
+2017,South Tipperary,12.2,Tipperary,12.2
+2017,Waterford City,11.8,Waterford,11.8
+2017,Waterford County,12.2,Waterford,12.2
+2017,Galway City,12.1,Galway,12.1
+2017,Galway County,13.4,Galway,13.4
+2017,Leitrim,12.3,Leitrim,12.3
+2017,Mayo,11.4,Mayo,11.4
+2017,Roscommon,11.7,Roscommon,11.7
+2017,Sligo,11.3,Sligo,11.3
+2017,Cavan,13.7,Cavan,13.7
+2017,Donegal,11.4,Donegal,11.4
+2017,Monaghan,12.4,Monaghan,12.4
+2018,Carlow,14.3,Carlow,14.3
+2018,Kildare,13.3,Kildare,13.3
+2018,Kilkenny,11.1,Kilkenny,11.1
+2018,Laois,12.1,Laois,12.1
+2018,Longford,13.2,Longford,13.2
+2018,Louth,12.9,Louth,12.9
+2018,Meath,13.0,Meath,13.0
+2018,Offaly,11.8,Offaly,11.8
+2018,Westmeath,13.4,Westmeath,13.4
+2018,Wexford,11.8,Wexford,11.8
+2018,Wicklow,11.5,Wicklow,11.5
+2018,Clare,11.4,Clare,11.4
+2018,Cork City,10.8,Cork,10.8
+2018,Cork County,12.9,Cork,12.9
+2018,Kerry,11.0,Kerry,11.0
+2018,Limerick City,13.6,Limerick,13.6
+2018,Limerick County,12.5,Limerick,12.5
+2018,Tipperary,12.7,Tipperary,12.7
+2018,Waterford City,13.2,Waterford,13.2
+2018,Waterford County,11.4,Waterford,11.4
+2018,Galway City,12.5,Galway,12.5
+2018,Galway County,12.7,Galway,12.7
+2018,Leitrim,12.7,Leitrim,12.7
+2018,Mayo,11.0,Mayo,11.0
+2018,Roscommon,10.8,Roscommon,10.8
+2018,Sligo,12.0,Sligo,12.0
+2018,Cavan,13.2,Cavan,13.2
+2018,Donegal,11.6,Donegal,11.6
+2018,Monaghan,13.1,Monaghan,13.1
+2019,Carlow,12.7,Carlow,12.7
+2019,Kildare,12.9,Kildare,12.9
+2019,Kilkenny,10.7,Kilkenny,10.7
+2019,Laois,12.5,Laois,12.5
+2019,Longford,13.7,Longford,13.7
+2019,Louth,12.4,Louth,12.4
+2019,Meath,13.2,Meath,13.2
+2019,Offaly,11.4,Offaly,11.4
+2019,Westmeath,12.4,Westmeath,12.4
+2019,Wexford,11.6,Wexford,11.6
+2019,Wicklow,11.7,Wicklow,11.7
+2019,Clare,10.9,Clare,10.9
+2019,Cork City,10.5,Cork,10.5
+2019,Cork County,12.1,Cork,12.1
+2019,Kerry,10.3,Kerry,10.3
+2019,Limerick City,13.7,Limerick,13.7
+2019,Limerick County,11.3,Limerick,11.3
+2019,Tipperary,11.2,Tipperary,11.2
+2019,Waterford City,12.9,Waterford,12.9
+2019,Waterford County,10.1,Waterford,10.1
+2019,Galway City,11.4,Galway,11.4
+2019,Galway County,12.6,Galway,12.6
+2019,Leitrim,12.9,Leitrim,12.9
+2019,Mayo,11.1,Mayo,11.1
+2019,Roscommon,12.3,Roscommon,12.3
+2019,Sligo,11.2,Sligo,11.2
+2019,Cavan,12.4,Cavan,12.4
+2019,Donegal,11.0,Donegal,11.0
+2019,Monaghan,11.7,Monaghan,11.7
+2020,Carlow,12.6,Carlow,12.6
+2020,Kildare,12.7,Kildare,12.7
+2020,Kilkenny,9.8,Kilkenny,9.8
+2020,Laois,10.7,Laois,10.7
+2020,Longford,12.5,Longford,12.5
+2020,Louth,11.7,Louth,11.7
+2020,Meath,11.9,Meath,11.9
+2020,Offaly,11.1,Offaly,11.1
+2020,Westmeath,12.8,Westmeath,12.8
+2020,Wexford,10.9,Wexford,10.9
+2020,Wicklow,10.9,Wicklow,10.9
+2020,Clare,10.6,Clare,10.6
+2020,Cork City,9.9,Cork,9.9
+2020,Cork County,11.8,Cork,11.8
+2020,Kerry,9.8,Kerry,9.8
+2020,Limerick City,12.1,Limerick,12.1
+2020,Limerick County,11.8,Limerick,11.8
+2020,Tipperary,10.8,Tipperary,10.8
+2020,Waterford City,12.5,Waterford,12.5
+2020,Waterford County,10.3,Waterford,10.3
+2020,Galway City,10.4,Galway,10.4
+2020,Galway County,11.4,Galway,11.4
+2020,Leitrim,11.5,Leitrim,11.5
+2020,Mayo,10.1,Mayo,10.1
+2020,Roscommon,10.6,Roscommon,10.6
+2020,Sligo,11.1,Sligo,11.1
+2020,Cavan,12.9,Cavan,12.9
+2020,Donegal,10.4,Donegal,10.4
+2020,Monaghan,12.0,Monaghan,12.0
+2021,Carlow,12.6,Carlow,12.6
+2021,Kildare,12.7,Kildare,12.7
+2021,Kilkenny,10.6,Kilkenny,10.6
+2021,Laois,11.8,Laois,11.8
+2021,Longford,12.6,Longford,12.6
+2021,Louth,12.1,Louth,12.1
+2021,Meath,13.2,Meath,13.2
+2021,Offaly,11.6,Offaly,11.6
+2021,Westmeath,13.0,Westmeath,13.0
+2021,Wexford,11.4,Wexford,11.4
+2021,Wicklow,11.7,Wicklow,11.7
+2021,Clare,11.0,Clare,11.0
+2021,Cork City,10.3,Cork,10.3
+2021,Cork County,12.2,Cork,12.2
+2021,Kerry,11.0,Kerry,11.0
+2021,Limerick City,12.5,Limerick,12.5
+2021,Limerick County,11.4,Limerick,11.4
+2021,Tipperary,12.1,Tipperary,12.1
+2021,Waterford City,12.8,Waterford,12.8
+2021,Waterford County,10.2,Waterford,10.2
+2021,Galway City,10.7,Galway,10.7
+2021,Galway County,12.6,Galway,12.6
+2021,Leitrim,12.1,Leitrim,12.1
+2021,Mayo,11.0,Mayo,11.0
+2021,Roscommon,11.3,Roscommon,11.3
+2021,Sligo,11.4,Sligo,11.4
+2021,Cavan,12.2,Cavan,12.2
+2021,Donegal,10.4,Donegal,10.4
+2021,Monaghan,13.1,Monaghan,13.1
+2022,Carlow,11.6,Carlow,11.6
+2022,Kildare,11.2,Kildare,11.2
+2022,Kilkenny,9.7,Kilkenny,9.7
+2022,Laois,10.1,Laois,10.1
+2022,Longford,11.0,Longford,11.0
+2022,Louth,11.0,Louth,11.0
+2022,Meath,11.5,Meath,11.5
+2022,Offaly,9.9,Offaly,9.9
+2022,Westmeath,11.3,Westmeath,11.3
+2022,Wexford,10.5,Wexford,10.5
+2022,Wicklow,10.2,Wicklow,10.2
+2022,Clare,9.6,Clare,9.6
+2022,Cork City,8.7,Cork,8.7
+2022,Cork County,10.5,Cork,10.5
+2022,Kerry,9.2,Kerry,9.2
+2022,Limerick City,11.9,Limerick,11.9
+2022,Limerick County,10.4,Limerick,10.4
+2022,Tipperary,10.1,Tipperary,10.1
+2022,Waterford City,12.4,Waterford,12.4
+2022,Waterford County,9.5,Waterford,9.5
+2022,Galway City,8.4,Galway,8.4
+2022,Galway County,11.5,Galway,11.5
+2022,Leitrim,11.0,Leitrim,11.0
+2022,Mayo,10.0,Mayo,10.0
+2022,Roscommon,9.8,Roscommon,9.8
+2022,Sligo,9.5,Sligo,9.5
+2022,Cavan,12.1,Cavan,12.1
+2022,Donegal,9.8,Donegal,9.8
+2022,Monaghan,10.5,Monaghan,10.5
+2023,Carlow,10.4,Carlow,10.4
+2023,Kildare,11.9,Kildare,11.9
+2023,Kilkenny,9.4,Kilkenny,9.4
+2023,Laois,10.2,Laois,10.2
+2023,Longford,11.2,Longford,11.2
+2023,Louth,10.9,Louth,10.9
+2023,Meath,11.8,Meath,11.8
+2023,Offaly,10.0,Offaly,10.0
+2023,Westmeath,11.1,Westmeath,11.1
+2023,Wexford,10.6,Wexford,10.6
+2023,Wicklow,9.8,Wicklow,9.8
+2023,Clare,9.4,Clare,9.4
+2023,Cork City,9.1,Cork,9.1
+2023,Cork County,10.0,Cork,10.0
+2023,Kerry,8.8,Kerry,8.8
+2023,Limerick City,12.1,Limerick,12.1
+2023,Limerick County,10.0,Limerick,10.0
+2023,Tipperary,9.9,Tipperary,9.9
+2023,Waterford City,12.1,Waterford,12.1
+2023,Waterford County,8.6,Waterford,8.6
+2023,Galway City,8.7,Galway,8.7
+2023,Galway County,11.0,Galway,11.0
+2023,Leitrim,9.3,Leitrim,9.3
+2023,Mayo,9.5,Mayo,9.5
+2023,Roscommon,9.6,Roscommon,9.6
+2023,Sligo,9.9,Sligo,9.9
+2023,Cavan,11.8,Cavan,11.8
+2023,Donegal,10.0,Donegal,10.0
+2023,Monaghan,11.0,Monaghan,11.0
